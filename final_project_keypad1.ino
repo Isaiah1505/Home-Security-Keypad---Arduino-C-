@@ -1,5 +1,4 @@
 // Keypad-Based Security System
-// Isaiah Wallace
 // December 13th, 2023
 #include <Keypad.h>
 const byte ROWS = 4;       //Four rows of keypad
