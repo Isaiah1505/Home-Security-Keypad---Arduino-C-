@@ -4,4 +4,4 @@ if there are too many failed attempts and its own setting menu with alterable op
 project was made using C++ in Arduino, with tinkercad; there's a provided picture with the
 layout of all components.
 
-<img src="Final_Project_Keypad.SS.jpg">
+<img src="/Final_Project_Keypad.SS.jpg">
